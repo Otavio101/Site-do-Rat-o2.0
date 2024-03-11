@@ -1,0 +1,41 @@
+.urlLogin{
+    text-align: center;
+}
+
+.urlCadastro{
+    text-align: center;
+}
+
+.header1{
+    text-align: center;
+}
+
+.section1{
+    margin-left: 100px;
+    margin-right: 1770px;
+    font-family: 'Courier New';
+    background-color: blueviolet;
+}
+.section2{
+    margin-left: 200px;
+    margin-right: 1650px;
+    font-family: 'Franklin Gothic Medium';
+    background-color: aquamarine;
+}
+.section3{
+    margin-left: 300px;
+    margin-right: 1520px;
+    font-family: 'Lucida Sans';
+    background-color: black;
+    color: white;
+}
+.section4{
+    margin-left: 400px;
+    margin-right: 1385px;
+    font-family: Georgia;
+    background-color: chartreuse;
+}
+
+.botao1{
+    text-align: center;
+}
